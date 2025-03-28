@@ -4,6 +4,3 @@ process the data
 create an avatar for user 
 
 login and logout
-
-change 1
-change 2 in my database
